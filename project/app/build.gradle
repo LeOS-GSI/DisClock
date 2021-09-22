@@ -147,15 +147,15 @@ android {
         }
     }
 
-    flavorDimensions "acdisplay"
+    flavorDimensions "disclock"
     productFlavors {
         //noinspection GroovyMissingReturnStatement
         defaultFlavor {
-            dimension "acdisplay"
+            dimension "disclock"
         }
         //noinspection GroovyMissingReturnStatement
         releaseFlavor {
-            dimension "acdisplay"
+            dimension "disclock"
         }
     }
 }
